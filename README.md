@@ -4,7 +4,7 @@ Aplicación web desarrollada con React.js para la gestión de vehículos y sus r
 
 ## 🌐 Deploy
 
-**URL de producción:** https://tu-app.vercel.app *(actualiza con tu URL real)*
+**URL de producción:** https://vehiculos-frontend.vercel.app *(actualiza con tu URL real)*
 
 ## 🛠️ Tecnologías Utilizadas
 
